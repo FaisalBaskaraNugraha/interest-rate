@@ -33,3 +33,6 @@ Correction: A private, written warning, providing clarity around the nature of t
 Warning: A warning with consequences for continued behavior.
 
 Banishment: A permanent ban from any sort of interaction with the project.
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
